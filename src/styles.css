@@ -3,7 +3,7 @@ body{
     font-family: "Roboto", sans-serif;
 }
 a{
-    color: purple;
+    color: #885df1;
 }
 .weather-app{
     background: white;
@@ -28,7 +28,7 @@ header{
 
 }
  .search-form-button{
-    background: purple;
+    background: #885df1;
     border: none;
     border-radius: 6px;
     padding: 15px 30px;
