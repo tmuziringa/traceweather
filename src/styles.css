@@ -87,8 +87,11 @@ font-size: 28px;
 
 }
 .forecast-icon{
-   text-align: center;
-   font-size: 38px;
+   width: 58px;
+   height: 58px;
+   display: block;
+   margin: 0 auto;
+   
 }
 .forecast-temps{
    text-align: center;
